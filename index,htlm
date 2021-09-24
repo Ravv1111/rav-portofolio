@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Belajar HTLM</title>
+</head>
+<body>
+    <!-- ini adalah heading -->
+    <!--dengan tag pada HTML ADALAH-->   
+
+    <H1>ini adalah heading 1</H1>
+    <h2>ini adalah heading 2</h2>
+    <h3>ini adalah heading 3</h3>
+    <h4>ini adalah heading 4</h4>
+    
+    <p> tag pada HTLM adalah potongan teks yangt di awalin dengan < dan di akhiri dengan >
+    </br> 
+        tag pada HTLM adalah potongan teks yangt di awalin dengan < dan di akhiri dengan >
+        tag pada HTLM adalah potongan teks yangt di awalin dengan < dan di akhiri dengan >
+    </p>
+
+    <ul type="triangel">
+        <li>pertama</li>
+        <li>kedua</li>
+        <li>ketiga</li>
+        <li>kelima</li>
+    <ul>
+    <table border="1"> 
+        <thead>
+            <tr>
+                <th>Nama</th>
+                <th>Rombel</th>
+                <tr>Rayon</tr>
+            </tr>
+        </thead>
+        <body>
+            <tr>
+                <td>Rava</td>
+                <td>RPL</td>
+                <td>sukasari 2</td>
+            </tr>
+        </body>
+    </table>    
+
+    <br>
+
+    <a target="_blank" href="hhtps://kejar.id">saya suka mengerjakan kejar.id</a>
+
+    <a target="_blank" href="https://www.google.com/">go to google</a>
+
+    </br>
+
+    <img src="rava.jfif>"
+
+    </br>
+
+    
+    Belajar HTML 
+</body>
+
+<html>
